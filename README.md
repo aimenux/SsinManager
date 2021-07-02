@@ -1,3 +1,5 @@
+[![.NET](https://github.com/aimenux/SsinManager/actions/workflows/ci.yml/badge.svg)](https://github.com/aimenux/SsinManager/actions/workflows/ci.yml)
+
 # SsinManager
 ```
 A global tool in order to generate or validate ssin depending on country
